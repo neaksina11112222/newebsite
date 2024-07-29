@@ -1,0 +1,36 @@
+.header-row{
+  box-shadow: 1px 1px 2px 1px gray;
+  padding: 10px;
+  width: 100%;
+  
+}
+ul{
+       display: flex;
+       justify-content:space-evenly;
+}
+a{
+       text-decoration: none;
+
+}
+.text{
+     text-align: center;
+     background: #000;
+     color: aliceblue;
+     padding: 1px;
+     width: 100%;
+     margin-top: 10px;
+}
+.header-img{
+       
+}
+img{
+       width: 110%;
+
+}
+body{
+       margin: auto;
+
+}
+a:hover{
+background: #489ecf;
+}
